@@ -51,7 +51,7 @@ Here are some screenshots showcasing key features of the app:
 
 ---
 
-## Demo Video
+## Example Steganography
 
 https://github.com/user-attachments/assets/5c8885fe-125f-4d0d-8673-c052d45c9952
 
