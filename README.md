@@ -1,4 +1,4 @@
-#shadestream
+# shadestream
 
 **Secure Video Steganography Chat App (Android, Kotlin)**
 
@@ -27,3 +27,25 @@ Here are some screenshots showcasing key features of the app:
 </p>
 
 ---
+## Chat & Status
+<p align="center">
+  <img src="assets/chat_list.png" width="333"/>
+  <img src="assets/chat.png" width="333"/>
+  <img src="assets/status_list.png" width="333"/>
+  <img src="assets/status.png" width="333"/>
+  <img src="assets/status_2.png" width="333"/>
+</p>
+
+---
+
+## Stegnography
+<p align="center">
+  <img src="assets/steg.png" width="333"/>
+  <img src="assets/select_cover.png" width="333"/>
+  <img src="assets/select_hide_data.png" width="333"/>
+  <img src="assets/hide_result_1.png" width="333"/>
+  <img src="assets/hide_result_2.png" width="333"/>
+  <img src="assets/extract_select.png" width="333"/>
+  <img src="assets/extract_result_1.png" width="333"/>
+  <img src="assets/extract_result_2.png" width="333"/>
+</p>
