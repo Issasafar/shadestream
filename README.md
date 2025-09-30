@@ -11,7 +11,7 @@ shadestream is an Android application that embeds hidden payloads into MP4 video
 - Secure chat interface for exchanging stego media
 - Modern Android UI (Jetpack Compose)
 - Example MP4 test files included
-- 
+
 ---
 ## 🖼 Screenshots
 
@@ -19,9 +19,9 @@ Here are some screenshots showcasing key features of the app:
 
 ### Auth & Profile
 <p align="center">
-  <img src="assets/signin_screen.png" width="200"/>
-  <img src="assets/create_account.png" width="200"/>
-  <img src="assets/profile_1.png" width="200"/>
+  <img src="assets/sign_screen.png" width="400"/>
+  <img src="assets/create_account.png" width="400"/>
+  <img src="assets/profile_1.png" width="400"/>
 </p>
 
 ---
