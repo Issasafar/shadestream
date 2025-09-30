@@ -1,3 +1,5 @@
+#shadestream
+
 **Secure Video Steganography Chat App (Android, Kotlin)**
 
 shadestream is an Android application that embeds hidden payloads into MP4 video streams and provides an end-to-end encrypted chat interface for exchanging stego-videos.  
@@ -19,9 +21,9 @@ Here are some screenshots showcasing key features of the app:
 
 ### Auth & Profile
 <p align="center">
-  <img src="assets/sign_screen.png" width="400"/>
-  <img src="assets/create_account.png" width="400"/>
-  <img src="assets/profile_1.png" width="400"/>
+  <img src="assets/sign_screen.png" width="333"/>
+  <img src="assets/create_account.png" width="333"/>
+  <img src="assets/profile_1.png" width="333"/>
 </p>
 
 ---
